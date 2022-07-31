@@ -5,3 +5,5 @@ add virtual environment with name (venv) to run this code
 2. pip install virtualenv
 3. virtualenv venv
 4. venv\scripts\activate
+them instal django with command -
+ pip install django
